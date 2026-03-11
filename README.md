@@ -19,6 +19,17 @@ A simple Student Registration System built using PHP and MySQL.
 - HTML
 - XAMPP
 
+## Screenshots
+
+### Student List Page
+![Student List](screenshots/Dashboard.jpeg)
+
+### Add Student Page
+![Add Student](screenshots/add_student.jpeg)
+
+### Search Feature
+![Search Student](screenshots/after_adding.jpeg)
+
 ## Setup Instructions
 
 1. Install XAMPP
