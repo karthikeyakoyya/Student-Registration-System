@@ -1,4 +1,5 @@
 # Student Registration System
+working link-https://student-registration-system.infinityfreeapp.com/
 
 A simple Student Registration System built using PHP and MySQL.
 
@@ -38,4 +39,4 @@ A simple Student Registration System built using PHP and MySQL.
 4. Place project inside htdocs folder
 5. Open browser and go to:
 
-http://localhost/student_registration_system
+https://student-registration-system.infinityfreeapp.com/
